@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="253477" started-at="2020-05-23T10:36:37Z" finished-at="2020-05-23T10:40:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="253477" started-at="2020-05-23T10:36:37Z" finished-at="2020-05-23T10:40:51Z">
+      <class name="Irctcmanual.Irctcmanualsample1$Irctcsample">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="beforeclass" is-config="true" duration-ms="38069" started-at="2020-05-23T10:36:37Z" finished-at="2020-05-23T10:37:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="beforemethode" is-config="true" duration-ms="14359" started-at="2020-05-23T10:37:16Z" finished-at="2020-05-23T10:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethode -->
+        <test-method status="PASS" signature="usernamepasswordnotok()[pri:1, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="usernamepasswordnotok" duration-ms="58328" started-at="2020-05-23T10:37:30Z" finished-at="2020-05-23T10:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernamepasswordnotok -->
+        <test-method status="PASS" signature="aftermethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="aftermethode" is-config="true" duration-ms="0" started-at="2020-05-23T10:38:28Z" finished-at="2020-05-23T10:38:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethode -->
+        <test-method status="PASS" signature="beforemethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="beforemethode" is-config="true" duration-ms="5917" started-at="2020-05-23T10:38:28Z" finished-at="2020-05-23T10:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethode -->
+        <test-method status="PASS" signature="usernamenotok()[pri:2, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="usernamenotok" duration-ms="41468" started-at="2020-05-23T10:38:34Z" finished-at="2020-05-23T10:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- usernamenotok -->
+        <test-method status="PASS" signature="aftermethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="aftermethode" is-config="true" duration-ms="0" started-at="2020-05-23T10:39:16Z" finished-at="2020-05-23T10:39:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethode -->
+        <test-method status="PASS" signature="beforemethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="beforemethode" is-config="true" duration-ms="1634" started-at="2020-05-23T10:39:16Z" finished-at="2020-05-23T10:39:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethode -->
+        <test-method status="PASS" signature="passwordnotok()[pri:3, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="passwordnotok" duration-ms="40325" started-at="2020-05-23T10:39:17Z" finished-at="2020-05-23T10:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordnotok -->
+        <test-method status="PASS" signature="aftermethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="aftermethode" is-config="true" duration-ms="0" started-at="2020-05-23T10:39:58Z" finished-at="2020-05-23T10:39:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethode -->
+        <test-method status="PASS" signature="beforemethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="beforemethode" is-config="true" duration-ms="5860" started-at="2020-05-23T10:39:58Z" finished-at="2020-05-23T10:40:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethode -->
+        <test-method status="PASS" signature="test()[pri:4, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="test" duration-ms="38247" started-at="2020-05-23T10:40:03Z" finished-at="2020-05-23T10:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterclass()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="afterclass" is-config="true" duration-ms="9165" started-at="2020-05-23T10:40:42Z" finished-at="2020-05-23T10:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclass -->
+        <test-method status="PASS" signature="aftermethode()[pri:0, instance:Irctcmanual.Irctcmanualsample1$Irctcsample@7823a2f9]" name="aftermethode" is-config="true" duration-ms="0" started-at="2020-05-23T10:40:42Z" finished-at="2020-05-23T10:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethode -->
+      </class> <!-- Irctcmanual.Irctcmanualsample1$Irctcsample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
